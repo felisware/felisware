@@ -7,7 +7,6 @@ We're an organization of programmers participating in the opensource world on th
     <p align="center">
         <strong>👨‍💻Programing Languages</strong>
     </p>
-</h2>
 
 <p align="center">
 <a href="https://code.visualstudio.com/download">
@@ -23,12 +22,12 @@ We're an organization of programmers participating in the opensource world on th
         <img src="Image\Language\java.png" width="75">
     </a>
 </p>
+</h2>
 
 <h2>
     <p align="center">
         <strong>🚀Development Tools</strong>
     </p>
-</h2>
 
 <p align="center">
     <a href="https://code.visualstudio.com/download">
@@ -62,3 +61,4 @@ We're an organization of programmers participating in the opensource world on th
         <img src="Image\Tools\firebase.png" width="113">
     </a>
 </p>
+</h2>
