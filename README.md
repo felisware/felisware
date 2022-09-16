@@ -58,7 +58,7 @@ We're an organization of programmers participating in the opensource world on th
         <img src="Image\Tools\firebase.png" width="113">
     </a>
     <a href="https://www.virtualbox.org/">
-        <img src="Image\Tools\virtualbox.png" width="120">
+        <img src="Image\Tools\virtualbox.png" width="125">
     </a>
 </p>
 </h2>
