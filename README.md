@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/felisware/felisware/blob/main/Image/Header.png" width="50%" height="50%">
-</p>
+![header](https://github.com/felisware/felisware/blob/main/Image/header.png)
 
 # Hello Techies
 We're an organization of programmers participating in the opensource world on the github platform. Softwarecreated is focusing developed on the goal, namely to simplify and speed up work automatically targeted at **Windows** , **Linux** , and **Android** devices.
