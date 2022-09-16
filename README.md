@@ -9,9 +9,6 @@ We're an organization of programmers participating in the opensource world on th
     </p>
 
 <p align="center">
-<a href="https://code.visualstudio.com/download">
-        <img src="Image\Tools\vscode.png" width="100">
-    </a>
     <a href="https://cplusplus.com/">
         <img src="Image\Language\cpp.png" width="73">
     </a>
