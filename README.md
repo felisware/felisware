@@ -62,3 +62,13 @@ We're an organization of programmers participating in the opensource world on th
     </a>
 </p>
 </h2>
+
+<h2>
+    <p align="center">
+        <strong>🏆Badges</strong>
+    </a>
+    </p>
+    <p align="center">
+        <a href="https:https://holopin.io/@felisware"><img src="https://holopin.io/api/user/board?user=felisware">
+    </p>
+</ha>
