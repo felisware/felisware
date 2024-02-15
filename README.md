@@ -12,15 +12,11 @@ Moreover, Felisware places a strong emphasis on collaboration and client satisfa
 
 # 📊Statistic
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko"/>
-
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko"/>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko" alt="Top Languages" />
+</div>
 
 # 🏆Badges
 
-<h2>
-    <p align="center">
-        <a href="https://holopin.io/@felisware">
-           <img src="https://holopin.io/api/user/board?user=felisware">
-    </p>
-</ha>
+<img src="https://holopin.io/api/user/board?user=felisware">
