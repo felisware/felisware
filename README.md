@@ -12,12 +12,12 @@ Moreover, Felisware places a strong emphasis on collaboration and client satisfa
 
 # 📊 Statistic
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="padding-right: 10px;">
+    <td style="padding-right: 10px; border: none;">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko" alt="GitHub Stats" />
     </td>
-    <td style="padding-left: 10px;">
+    <td style="padding-left: 10px; border: none;">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko" alt="Top Languages" />
     </td>
   </tr>
