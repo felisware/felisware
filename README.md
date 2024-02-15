@@ -10,15 +10,18 @@ Driven by a passion for innovation and creativity, Felisware continuously explor
 
 Moreover, Felisware places a strong emphasis on collaboration and client satisfaction. By fostering open communication channels and prioritizing customer feedback, the organization ensures that its products not only meet but exceed expectations. Whether partnering with businesses to develop custom software solutions or engaging with gamers to create captivating gaming experiences, Felisware remains dedicated to delivering value and driving innovation in the digital realm. With a proven track record of success and a forward-thinking approach, Felisware continues to be a trusted partner for those seeking top-tier digital solutions.
 
-# 📊Statistic
+# 📊 Statistic
 
-<div style="display: inline-block; margin-right: 10px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko" alt="GitHub Stats" />
-</div>
-
-<div style="display: inline-block; margin-left: 10px;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko" alt="Top Languages" />
-</div>
+<table>
+  <tr>
+    <td style="padding-right: 10px;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko" alt="GitHub Stats" />
+    </td>
+    <td style="padding-left: 10px;">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 # 🏆Badges
 
