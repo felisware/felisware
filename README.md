@@ -1,73 +1,24 @@
-![header](Image/header.png)
+![header](assets/header.png)
 
-# Hello Techies
-We're an organization of programmers participating in the opensource world on the github platform. Software created is focusing developed on the goal, namely to simplify and speed up work automatically targeted at **Windows** , **Linux** , **Mac OS**, **Android**, and **IOS** devices.
+# 😎About Us
 
-<h2>
-    <p align="center">
-        <strong>📑Programing Languages</strong>
-    </p>
+Felisware, an innovative organization, specializes in the development of a wide range of digital products, including video games, computer software, mobile applications, web solutions, vecode extensions, and AI models/services. With a dedicated team of experts, Felisware thrives on pushing the boundaries of technology to create immersive and cutting-edge experiences for users across various platforms. Whether it's crafting captivating video game worlds, designing intuitive mobile apps, or implementing advanced AI solutions, Felisware is committed to delivering excellence in every project it undertakes.
 
-<p align="center">
-    <a href="https://cplusplus.com/">
-        <img src="Image\Language\cpp.png" width="73">
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="Image\Language\csharp.png" width="100">
-    </a>
-    <a href="https://dev.java/">
-        <img src="Image\Language\java.png" width="75">
-    </a>
-</p>
-</h2>
+<img align="right" src="assets/mascot.png"/>
+
+Driven by a passion for innovation and creativity, Felisware continuously explores new possibilities in the digital landscape. Through meticulous research and development, the organization stays at the forefront of technological advancements, ensuring its products remain relevant and impactful in today's fast-paced market. By harnessing the power of emerging technologies, such as AI and vecode extensions, Felisware endeavors to revolutionize the way users interact with digital content, offering unique and personalized experiences tailored to their needs and preferences.
+
+Moreover, Felisware places a strong emphasis on collaboration and client satisfaction. By fostering open communication channels and prioritizing customer feedback, the organization ensures that its products not only meet but exceed expectations. Whether partnering with businesses to develop custom software solutions or engaging with gamers to create captivating gaming experiences, Felisware remains dedicated to delivering value and driving innovation in the digital realm. With a proven track record of success and a forward-thinking approach, Felisware continues to be a trusted partner for those seeking top-tier digital solutions.
+
+# Statistic
+
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko"/>
+
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko"/>
+
+# 🏆Badges
 
 <h2>
-    <p align="center">
-        <strong>💾Development Tools</strong>
-    </p>
-
-<p align="center">
-    <a href="https://code.visualstudio.com/download">
-        <img src="Image\Tools\vscode.png" width="100">
-    </a>
-    <a href="https://www.mingw-w64.org/">
-        <img src="Image\Tools\mingw.png" width="110">
-    </a>
-    <a href="https://www.wxwidgets.org/">
-        <img src="Image\Tools\wxwidgets.png" width="140">
-    </a>
-    <a href="https://visualstudio.microsoft.com/vs/community/">
-        <img src="Image\Tools\vs.png" width="60">
-    </a>
-    <a href="https://developer.android.com/studio">
-        <img src="Image\Tools\android-studio.png" width="178">
-    </a>
-    <a href="https://cmake.org/">
-        <img src="Image\Tools\cmake.png" width="85">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="Image\Tools\git.png" width="70">
-    </a>
-    <a href="https://www.sqlite.org/index.html">
-        <img src="Image\Tools\sqlite.png" width="100">
-    </a>  
-    <a href="https://www.gnupg.org/">
-        <img src="Image\Tools\gnupg.png" width="85">
-    </a>
-    <a href="https://firebase.google.com/?hl=id">
-        <img src="Image\Tools\firebase.png" width="113">
-    </a>
-    <a href="https://www.virtualbox.org/">
-        <img src="Image\Tools\virtualbox.png" width="125">
-    </a>
-</p>
-</h2>
-
-<h2>
-    <p align="center">
-        <strong>🏆Badges</strong>
-    </a>
-    </p>
     <p align="center">
         <a href="https://holopin.io/@felisware">
            <img src="https://holopin.io/api/user/board?user=felisware">
