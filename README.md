@@ -12,9 +12,12 @@ Moreover, Felisware places a strong emphasis on collaboration and client satisfa
 
 # 📊Statistic
 
-<div align="center">
-  <img style="margin-right: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <img style="margin-left: 10px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko" alt="Top Languages" />
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko" alt="GitHub Stats" />
+</div>
+
+<div style="display: inline-block; margin-left: 10px;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felisware&theme=merko" alt="Top Languages" />
 </div>
 
 # 🏆Badges
