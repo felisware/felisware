@@ -10,7 +10,7 @@ Driven by a passion for innovation and creativity, Felisware continuously explor
 
 Moreover, Felisware places a strong emphasis on collaboration and client satisfaction. By fostering open communication channels and prioritizing customer feedback, the organization ensures that its products not only meet but exceed expectations. Whether partnering with businesses to develop custom software solutions or engaging with gamers to create captivating gaming experiences, Felisware remains dedicated to delivering value and driving innovation in the digital realm. With a proven track record of success and a forward-thinking approach, Felisware continues to be a trusted partner for those seeking top-tier digital solutions.
 
-# Statistic
+# 📊Statistic
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felisware&show_icons=true&theme=merko"/>
 
